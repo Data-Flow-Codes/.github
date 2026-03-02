@@ -1,4 +1,4 @@
-[!logo image](profile/assets/DataFlowCodes.png)
+![logo image](profile/assets/DataFlowCodes.png)
 # Hybrid Graph Bytecode
 
 ## Rationale
