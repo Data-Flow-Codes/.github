@@ -1,4 +1,4 @@
-![logo image](profile/assets/DataFlowCodes.png)
+![logo image](https://github.com/Data-Flow-Codes/.github/blob/f223c2fe08e7bbc643e544c35a2d4c6bbcabe6db/profile/assets/DataFlowCodes.png)
 # Hybrid Graph Bytecode
 
 ## Rationale
